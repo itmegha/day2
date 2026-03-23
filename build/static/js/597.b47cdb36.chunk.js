@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkday2=self.webpackChunkday2||[]).push([[597],{597:(e,t,n)=>{n.r(t),n.d(t,{default:()=>a});var s=n(43),u=n(579);const a=function(){const[e,t]=(0,s.useState)("abcd");return(0,u.jsxs)(u.Fragment,{children:[(0,u.jsx)("p",{children:"About Us Page"}),(0,u.jsxs)("form",{onSubmit:t=>{t.preventDefault(),console.log(e)},children:[(0,u.jsx)("input",{name:"username",value:e,onChange:e=>{t(e.target.value)}}),(0,u.jsx)("button",{type:"submit",children:"Submit"})]})]})}}}]);
+//# sourceMappingURL=597.b47cdb36.chunk.js.map
